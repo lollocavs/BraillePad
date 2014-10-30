@@ -1,0 +1,3 @@
+BraillePad	KEYWORD1
+charBraille	KEYWORD2
+writeBraille	KEYWORD2
